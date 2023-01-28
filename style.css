@@ -122,10 +122,11 @@ p.announcment_bar {
   display: flex;
   gap: 70px;
   margin-bottom: 100px;
+  /* flex-wrap: wrap; */
 }
 
 .hero-card {
-  width: 50%;
+  min-width: 50%;
   height: 500px;
   text-align: center;
 }
