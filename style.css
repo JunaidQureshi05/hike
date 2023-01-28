@@ -117,3 +117,38 @@ p.announcment_bar {
   color: gray;
   font-size: 15px;
 }
+
+.row {
+  display: flex;
+  gap: 70px;
+  margin-bottom: 100px;
+}
+
+.hero-card {
+  width: 50%;
+  height: 500px;
+  text-align: center;
+}
+.hero-card img {
+  height: 100%;
+  width: 100%;
+}
+
+.hero-card .link {
+  color: black;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  margin: 20px;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.trending .hero-card {
+  height: 650px;
+}
