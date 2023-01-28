@@ -109,3 +109,11 @@ p.announcment_bar {
 .navbar ul li:hover a {
   border-bottom: 1px solid black;
 }
+
+.quote-section {
+  text-align: center;
+  margin: 50px 0;
+  font-weight: 700;
+  color: gray;
+  font-size: 15px;
+}
